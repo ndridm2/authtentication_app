@@ -16,3 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Screenshoot
+
+![Frame 1](https://github.com/ndridm2/authtentication_app/assets/64353589/8cccf31b-66cc-43c9-8b57-320a840c7cfd)
